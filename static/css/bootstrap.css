@@ -5,7 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
-  --blue: #10284e;
+  --blue:  #10284e;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -137,7 +137,7 @@ sup {
   top: -.5em; }
 
 a {
-  color: #10284e;
+  color: #162949;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
